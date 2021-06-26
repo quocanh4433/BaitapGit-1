@@ -5,3 +5,8 @@ console.log ('Master')
 console.log ('Test Branch')
 // Dev Branch
 console.log ('Dev Branch')
+
+// Funtion of Test Branch + Dev Branch
+function testTask () {
+    console.log('Test Task')
+}
